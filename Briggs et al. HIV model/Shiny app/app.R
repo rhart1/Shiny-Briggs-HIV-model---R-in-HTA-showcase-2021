@@ -20,6 +20,8 @@
 #' HTML styles have also been added to this script to customize the theme of the application. See below to view how alternative
 #' colours have been applied 
 
+#' Install shiny if you have not already
+#' install.packages('shiny')
 library("shiny")
 
 App_location <- "./Briggs et al. HIV model/Shiny app/"
